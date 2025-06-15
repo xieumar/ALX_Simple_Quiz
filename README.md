@@ -1,1 +1,1 @@
-This contains the quiz for alx js
+This contains a quiz and calculator for alx js
